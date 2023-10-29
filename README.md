@@ -8,3 +8,5 @@
 5. npm install sqlite3 sqlite --save => instalando o banco de dados
 6. npm install bcryptjs => instalando o encriptador das senhas
 7. npm install knex --save => instalando o query builder knex
+8. npx knex init => cria o arquivo knexfile.js q configura o nosso knex
+9. npx knex migrate:make orcamentos => cria o arquivo de migração da tabela dos Orçamentos

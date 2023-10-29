@@ -12,7 +12,7 @@ const listaMateriaisRoutes = Router()
 
 //método post
 listaMateriaisRoutes.post("/", listaMateriaisController.create)
-listaMateriaisRoutes.get("/", listaMateriaisController.show)
+listaMateriaisRoutes.get("/:CODIGO", listaMateriaisController.show)
 listaMateriaisRoutes.get("/", listaMateriaisController.index)
 listaMateriaisRoutes.put("/",listaMateriaisController.update)
 

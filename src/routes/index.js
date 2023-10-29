@@ -12,7 +12,7 @@ const routes = Router();
 //fala pra o aplicativo usar o arquivo users.routes.js pra acessar os métodos
 routes.use("/orcamentos", orcamentosRouter);
 routes.use("/movimentacoes", movimentacoesRouter);
-routes.use("/lsitamateriais", listaMateriaisRouter);
+routes.use("/listamateriais", listaMateriaisRouter);
 
 // exporta as rotas
 module.exports = routes;

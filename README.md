@@ -10,3 +10,5 @@
 7. npm install knex --save => instalando o query builder knex
 8. npx knex init => cria o arquivo knexfile.js q configura o nosso knex
 9. npx knex migrate:make orcamentos => cria o arquivo de migração da tabela dos Orçamentos, fiz o mesmo para as outras tabelas
+
+obs: A biblioteca `Path` foi utilizada mas não é preciso instalação

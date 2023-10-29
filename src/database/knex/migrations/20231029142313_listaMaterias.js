@@ -1,5 +1,5 @@
 
-exports.up = knex => knex.schema.createTable("listaMaterias", table => {
+exports.up = knex => knex.schema.createTable("listaMateriais", table => {
     table.increments("id")
     table.integer("CODIGO").notNullable()
     table.text("DESCRICAO").notNullable()
@@ -8,4 +8,4 @@ exports.up = knex => knex.schema.createTable("listaMaterias", table => {
     table.double("VALOR_UND")
 });
 
-exports.down = knex => knex.schema.dropTable("listaMaterias");
+exports.down = knex => knex.schema.dropTable("listaMateriais");

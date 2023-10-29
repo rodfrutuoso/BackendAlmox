@@ -16,14 +16,18 @@ class ListaMateriaisController {
             repetidos.push(material.CODIGO)
         })
 
-        let jaExiste = await knex("listaMateriais")
-            .select("CODIGO")
-            .whereIn("CODIGO", repetidos)
+        try {
+            var jaExiste = await knex("listaMateriais")
+                .select("CODIGO")
+                .whereIn("listaMateriais.CODIGO", repetidos)
+        } catch (e) {
+            throw new AppError(`o JSON não possui os parametros necessários`)
+        }
 
         jaExiste = jaExiste.map(codigo => codigo.CODIGO)
 
         if (jaExiste.length > 0) {
-            throw new AppError(`Já existem materiais com esse os códigos ${jaExiste} `)
+            throw new AppError(`Já existem materiais com esse os códigos ${jaExiste}`)
         }
 
         materiais.map(async (material) => {
@@ -32,23 +36,7 @@ class ListaMateriaisController {
             await knex("listaMateriais").insert({
                 CODIGO, DESCRICAO, TIPO, UNIDADE, VALOR_UND
             })
-
         })
-
-        console.log(jaExiste)
-
-        // const { CODIGO, DESCRICAO, TIPO, UNIDADE, VALOR_UND } = request.body
-
-        // const jaExiste = await knex("listaMateriais")
-        //     .where({ CODIGO })
-
-        // if (jaExiste.length > 0) {
-        //     throw new AppError("Já existe um material com esse código")
-        // }
-
-        // await knex("listaMateriais").insert({
-        //     CODIGO, DESCRICAO, TIPO, UNIDADE, VALOR_UND
-        // })
 
         response.status(201).json();
     }

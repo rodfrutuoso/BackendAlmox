@@ -42,21 +42,74 @@ class ListaMateriaisController {
     }
 
     async show(request, response) {
+        const { CODIGO } = request.params;
 
-        return response.status(200).json()
+        const material = await knex("listaMateriais")
+            .where({ CODIGO })
+
+        if (material.length < 1) {
+            throw new AppError(`O material não foi encontrado`)
+        }
+
+        return response.status(200).json(material)
     }
 
 
     async index(request, response) {
+        const { DESCRICAO, CODIGO } = request.query
+
+        var materiais
+        if (DESCRICAO && CODIGO) {
+
+            const filterCodigos = CODIGO.split(",").map(codigo => codigo.trim())
+
+            materiais = await knex("listaMateriais")
+                .whereLike("DESCRICAO", `%${DESCRICAO}%`)
+                .whereIn("CODIGO", filterCodigos)
+
+        } else if (DESCRICAO && !CODIGO) {
+
+            materiais = await knex("listaMateriais")
+                .whereLike("DESCRICAO", `%${DESCRICAO}%`)
+
+        } else if (!DESCRICAO && CODIGO) {
+
+            const filterCodigos = CODIGO.split(",").map(codigo => codigo.trim())
+
+            materiais = await knex("listaMateriais")
+                .whereIn("CODIGO", filterCodigos)
+
+        } else {
+            throw new AppError(`Não foram inseridas dados de pesquisa`)
+        }
 
 
-        response.status(200).json()
+        response.status(200).json(materiais)
     }
 
     async update(request, response) {
+        var { CODIGO, DESCRICAO, TIPO, UNIDADE, VALOR_UND } = request.body
+        const {id} = request.params
+
+        const material = await knex("listaMateriais")
+            .where({id})
+        
+        if(material.length < 1){
+            throw new AppError(`Material não encontrado`)
+        }
+
+        CODIGO = CODIGO ?? material.CODIGO
+        DESCRICAO = DESCRICAO ?? material.DESCRICAO
+        TIPO = TIPO ?? material.TIPO
+        UNIDADE = UNIDADE ?? material.UNIDADE
+        VALOR_UND = VALOR_UND ?? material.VALOR_UND
+
+        await knex("listaMateriais")
+        .where({id})
+        .update({ CODIGO, DESCRICAO, TIPO, UNIDADE, VALOR_UND })
 
 
-        return response.status(201).json()
+        return response.status(201).json("material atualizado")
 
     }
 }

@@ -14,6 +14,6 @@ const listaMateriaisRoutes = Router()
 listaMateriaisRoutes.post("/", listaMateriaisController.create)
 listaMateriaisRoutes.get("/:CODIGO", listaMateriaisController.show)
 listaMateriaisRoutes.get("/", listaMateriaisController.index)
-listaMateriaisRoutes.put("/",listaMateriaisController.update)
+listaMateriaisRoutes.put("/:id",listaMateriaisController.update)
 
 module.exports = listaMateriaisRoutes;

@@ -1,0 +1,5467 @@
+[
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 210497,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 400057,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 530010,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 536778,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2200002,
+        "quantidade": 2.4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2200002,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2202040,
+        "quantidade": 313
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2203008,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2206000,
+        "quantidade": 16.5
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2221001,
+        "quantidade": 3.5
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2221001,
+        "quantidade": 3.5
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2223464,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2227024,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2227024,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2278000,
+        "quantidade": 3.3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2300000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2314003,
+        "quantidade": 68
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2322005,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2322005,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2401000,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2401000,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2401002,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2401002,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2401006,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2402002,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2403000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2412001,
+        "quantidade": 19
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2412003,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2412003,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2412003,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2414034,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2415000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2421113,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2421113,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3300016,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3300152,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3300153,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3302082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3302082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3310009,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3310021,
+        "quantidade": 46
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3310029,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3410080,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3416090,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3416100,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3417035,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3419072,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3419072,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3420090,
+        "quantidade": 57
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3423030,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3423030,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3428086,
+        "quantidade": 68
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430120,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430120,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430520,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430530,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430530,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430548,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3430548,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3432010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3432010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3433010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3433010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3461100,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3461100,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3470008,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3470008,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480280,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480280,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480285,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480285,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480310,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480310,
+        "quantidade": 54
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480315,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480315,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480320,
+        "quantidade": 31
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480325,
+        "quantidade": 29
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480325,
+        "quantidade": 53
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480335,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480335,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480340,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3480340,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3486040,
+        "quantidade": 63
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3486040,
+        "quantidade": 34
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3490080,
+        "quantidade": 76
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3490080,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3493315,
+        "quantidade": 250
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 3493325,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 4404025,
+        "quantidade": 42
+    },
+    {
+        "obra": "B-0150000",
+        "codDoMateiral": 7511022,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 210497,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 400043,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 530010,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 536778,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2200002,
+        "quantidade": 11.457
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2202040,
+        "quantidade": 923.408
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2203008,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2206000,
+        "quantidade": 23
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2221001,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2223080,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2230050,
+        "quantidade": 193.2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2278000,
+        "quantidade": 7.437
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2300000,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2314003,
+        "quantidade": 136
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2322005,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2401000,
+        "quantidade": 25
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2401001,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2401006,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2402002,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2403000,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2412001,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2412003,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2414034,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 2415000,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3300012,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3300016,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3300082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3300152,
+        "quantidade": 60
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3302058,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3310021,
+        "quantidade": 81
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3310029,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3410080,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3416090,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3416100,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3416105,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3417025,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3420090,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3421010,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3423030,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3428086,
+        "quantidade": 136
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3430120,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3430420,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3430547,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3431611,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3432010,
+        "quantidade": 116
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3433010,
+        "quantidade": 124
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3461100,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3470008,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480270,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480280,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480285,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480305,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480310,
+        "quantidade": 129
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480315,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480325,
+        "quantidade": 34
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480335,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3480345,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3486040,
+        "quantidade": 58
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3490080,
+        "quantidade": 52
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3493315,
+        "quantidade": 364
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 3493325,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 4404025,
+        "quantidade": 46.5
+    },
+    {
+        "obra": "B-0190457",
+        "codDoMateiral": 7511022,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 210376,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 400043,
+        "quantidade": 38
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 530010,
+        "quantidade": 54
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 536137,
+        "quantidade": 33
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 536784,
+        "quantidade": 21
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2200002,
+        "quantidade": 33.345
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2202040,
+        "quantidade": 3046.271
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2203008,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2206000,
+        "quantidade": 102.25
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2221001,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2223080,
+        "quantidade": 88
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2230037,
+        "quantidade": 1522.5
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2278000,
+        "quantidade": 21.645
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2300000,
+        "quantidade": 39
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2314003,
+        "quantidade": 401
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2322005,
+        "quantidade": 438
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2401000,
+        "quantidade": 116
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2401001,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2401001,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2401006,
+        "quantidade": 42
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2402002,
+        "quantidade": 53
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2403000,
+        "quantidade": 53
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2412001,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2412003,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2412008,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2414026,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2414034,
+        "quantidade": 41
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 2415000,
+        "quantidade": 53
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3300012,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3300016,
+        "quantidade": 43
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3300076,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3300082,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3300152,
+        "quantidade": 73
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3302083,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3302085,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3310021,
+        "quantidade": 144
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3310021,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3310029,
+        "quantidade": 82
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3310029,
+        "quantidade": 82
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3310029,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3324021,
+        "quantidade": 92
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3410080,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3416115,
+        "quantidade": 39
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3416120,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3416125,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3417025,
+        "quantidade": 25
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3417035,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3419162,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3419168,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3420090,
+        "quantidade": 452
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3421010,
+        "quantidade": 276
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3423030,
+        "quantidade": 346
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3428086,
+        "quantidade": 401
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3430120,
+        "quantidade": 346
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3430350,
+        "quantidade": 368
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3430520,
+        "quantidade": 21
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3430548,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3431611,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3431760,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3432010,
+        "quantidade": 240
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3433010,
+        "quantidade": 400
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3435010,
+        "quantidade": 92
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3436010,
+        "quantidade": 92
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3461100,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3470008,
+        "quantidade": 50
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480270,
+        "quantidade": 29
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480275,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480280,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480285,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480305,
+        "quantidade": 23
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480310,
+        "quantidade": 251
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480325,
+        "quantidade": 225
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480340,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3480345,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3486040,
+        "quantidade": 372
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3490080,
+        "quantidade": 332
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3493315,
+        "quantidade": 1023
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 3493325,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 4401035,
+        "quantidade": 1472
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 4404025,
+        "quantidade": 150
+    },
+    {
+        "obra": "B-0238475",
+        "codDoMateiral": 7511022,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 210497,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 400057,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 530010,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 536778,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 538000,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2200002,
+        "quantidade": 1.62
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2202040,
+        "quantidade": 44.789
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2203008,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2205000,
+        "quantidade": 4.68
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2206000,
+        "quantidade": 4.18
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2221001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2223464,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2230050,
+        "quantidade": 88.2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2278000,
+        "quantidade": 0.666
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2300000,
+        "quantidade": 19
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2314003,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2322005,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2401000,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2401001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2401006,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2402002,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2403000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2412001,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2412003,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2414034,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2415000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3300012,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3300152,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3302082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3302085,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3310021,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3310028,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3410080,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3416090,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3416100,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3416115,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3416120,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3416125,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3417025,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3417035,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3419030,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3419072,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3420090,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3421010,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3423030,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3428086,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3430120,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3430547,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3430548,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3431611,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3432010,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3433010,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3470008,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480270,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480280,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480285,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480305,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480310,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480315,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480320,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480335,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3480340,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3486040,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3490080,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3493315,
+        "quantidade": 92
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 3493325,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 4404025,
+        "quantidade": 21
+    },
+    {
+        "obra": "B-0239469",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 210456,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 210497,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 400057,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 530010,
+        "quantidade": 31
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 536778,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 536779,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 536784,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 536786,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2200002,
+        "quantidade": 42.39
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2202040,
+        "quantidade": 2799.21
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2203008,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2206000,
+        "quantidade": 105
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2221001,
+        "quantidade": 32.5
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2223464,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2230050,
+        "quantidade": 1608.6
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2230076,
+        "quantidade": 459.9
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2278000,
+        "quantidade": 17.427
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2300000,
+        "quantidade": 45
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2314003,
+        "quantidade": 325
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2322005,
+        "quantidade": 192
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2401000,
+        "quantidade": 85
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2401001,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2401001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2401002,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2401006,
+        "quantidade": 23
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2402002,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2403000,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2412001,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2412003,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2414034,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2415000,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2660002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2660003,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 2660026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300012,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300016,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300076,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300082,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300152,
+        "quantidade": 75
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3300153,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3302058,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3302082,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3302086,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3310009,
+        "quantidade": 133
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3310021,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3310029,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3324021,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3410080,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416090,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416100,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416105,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416115,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416120,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3416125,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3417025,
+        "quantidade": 39
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3417035,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3419072,
+        "quantidade": 34
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3419162,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3419168,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3420090,
+        "quantidade": 200
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3421010,
+        "quantidade": 98
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3423030,
+        "quantidade": 168
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3428086,
+        "quantidade": 325
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430120,
+        "quantidade": 168
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430350,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430370,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430546,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430547,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3430548,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3431611,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3431760,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3432010,
+        "quantidade": 504
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3433010,
+        "quantidade": 504
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3435010,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3436010,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3461100,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3470008,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480270,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480275,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480280,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480285,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480305,
+        "quantidade": 37
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480310,
+        "quantidade": 257
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480315,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480320,
+        "quantidade": 77
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480325,
+        "quantidade": 112
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480335,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3480340,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3486040,
+        "quantidade": 242
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3490080,
+        "quantidade": 188
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3493315,
+        "quantidade": 787
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 3493325,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 4401035,
+        "quantidade": 384
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 4404025,
+        "quantidade": 189
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 4404026,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0586349",
+        "codDoMateiral": 7511022,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 210456,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 400057,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 530010,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 536779,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 536784,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2200002,
+        "quantidade": 43.2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2202040,
+        "quantidade": 2810.59
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2203008,
+        "quantidade": 65
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2206000,
+        "quantidade": 93.5
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2221001,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2223464,
+        "quantidade": 64
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2230076,
+        "quantidade": 1149.75
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2278000,
+        "quantidade": 17.76
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2300000,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2314003,
+        "quantidade": 322
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2322005,
+        "quantidade": 369
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2401000,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2401001,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2401001,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2401002,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2401006,
+        "quantidade": 38
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2402002,
+        "quantidade": 33
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2403000,
+        "quantidade": 33
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2412001,
+        "quantidade": 80
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2412003,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2414034,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2415000,
+        "quantidade": 33
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2660000,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2660001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2660002,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2660003,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 2660026,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3300012,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3300016,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3300076,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3300082,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3300152,
+        "quantidade": 60
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3302082,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3310021,
+        "quantidade": 175
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3310029,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3324021,
+        "quantidade": 80
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3410080,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3416090,
+        "quantidade": 50
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3416100,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3416105,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3417025,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3417035,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3419072,
+        "quantidade": 42
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3419162,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3419168,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3420090,
+        "quantidade": 391
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3421010,
+        "quantidade": 240
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3423030,
+        "quantidade": 289
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3428086,
+        "quantidade": 322
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3430120,
+        "quantidade": 289
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3430350,
+        "quantidade": 320
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3430546,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3430548,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3431760,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3432010,
+        "quantidade": 424
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3433010,
+        "quantidade": 424
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3435010,
+        "quantidade": 80
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3436010,
+        "quantidade": 80
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3461100,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3470008,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480270,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480275,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480280,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480285,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480305,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480310,
+        "quantidade": 200
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480320,
+        "quantidade": 68
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480325,
+        "quantidade": 125
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480335,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3480340,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3486040,
+        "quantidade": 333
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3490080,
+        "quantidade": 256
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3493315,
+        "quantidade": 769
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 3493325,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 4401035,
+        "quantidade": 1280
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 4404025,
+        "quantidade": 159
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 4404026,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0592088",
+        "codDoMateiral": 7511022,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 210497,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 400057,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 530010,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 536778,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2200002,
+        "quantidade": 10.395
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2202040,
+        "quantidade": 505.048
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2203008,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2205000,
+        "quantidade": 9.36
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2206000,
+        "quantidade": 16.72
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2221001,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2223464,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2230050,
+        "quantidade": 1396.5
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2278000,
+        "quantidade": 4.274
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2300000,
+        "quantidade": 37
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2314003,
+        "quantidade": 86
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2322005,
+        "quantidade": 83
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2401000,
+        "quantidade": 37
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2401001,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2401002,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2401006,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2402002,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2403000,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2412001,
+        "quantidade": 38
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2412003,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2414034,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2415000,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3300012,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3300016,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3300082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3300152,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3300153,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3302058,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3302083,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3310021,
+        "quantidade": 51
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3310028,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3324021,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3410080,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3416090,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3416100,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3416105,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3417025,
+        "quantidade": 33
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3417035,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3419030,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3419072,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3420090,
+        "quantidade": 83
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3421010,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3423030,
+        "quantidade": 74
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3428086,
+        "quantidade": 86
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3430120,
+        "quantidade": 74
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3430350,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3430547,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3430548,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3431611,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3432010,
+        "quantidade": 272
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3433010,
+        "quantidade": 272
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3435010,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3436010,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3461100,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3470008,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480270,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480280,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480285,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480305,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480310,
+        "quantidade": 91
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480315,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480320,
+        "quantidade": 68
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480335,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3480340,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3486040,
+        "quantidade": 92
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3490080,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3493315,
+        "quantidade": 334
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 3493325,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 4401035,
+        "quantidade": 144
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 4404025,
+        "quantidade": 102
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 4404026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0596885",
+        "codDoMateiral": 7511022,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 211253,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 211304,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 401010,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 531005,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 536778,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 536779,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2200002,
+        "quantidade": 0.81
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2203008,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2206000,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2221001,
+        "quantidade": 11.5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2223464,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2230050,
+        "quantidade": 117.6
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2230076,
+        "quantidade": 216.3
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2278000,
+        "quantidade": 0.333
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2300000,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2314001,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2401000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2401002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2401006,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2402002,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2403000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2412001,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2412002,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2414034,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2415000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2660002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2660003,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 2660026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3300012,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3300076,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3300082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3310009,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3310029,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3410080,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3417025,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3419162,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3419168,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3428086,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3430520,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3430547,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3431611,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3431760,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3461100,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3470008,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480275,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480285,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480305,
+        "quantidade": 13
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480310,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480315,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480320,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3480325,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3486040,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3490080,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3493315,
+        "quantidade": 38
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 3493325,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 4404025,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0730163",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 210456,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 400057,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 530010,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 536779,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 536784,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2200002,
+        "quantidade": 9.4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2202040,
+        "quantidade": 414
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2203008,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2206000,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2221001,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2223464,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2230076,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2278000,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2300000,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2314003,
+        "quantidade": 70
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2322005,
+        "quantidade": 124
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2401000,
+        "quantidade": 24
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2401001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2401006,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2402002,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2403000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2412001,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2414034,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2415000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2660002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2660003,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 2660026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3300016,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3300152,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3302082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3302083,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3310009,
+        "quantidade": 49
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3310029,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3324021,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3410080,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3416090,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3416100,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3416115,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3416120,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3417025,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3417035,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3419072,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3419162,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3419168,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3420090,
+        "quantidade": 124
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3421010,
+        "quantidade": 84
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3423030,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3428086,
+        "quantidade": 70
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3430120,
+        "quantidade": 96
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3430350,
+        "quantidade": 112
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3430546,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3432010,
+        "quantidade": 144
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3433010,
+        "quantidade": 144
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3435010,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3436010,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3461100,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3470008,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480270,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480275,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480280,
+        "quantidade": 32
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480285,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480310,
+        "quantidade": 42
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480320,
+        "quantidade": 26
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480325,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480335,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3480340,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3486040,
+        "quantidade": 102
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3490080,
+        "quantidade": 88
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3493315,
+        "quantidade": 207
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 3493325,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 4401035,
+        "quantidade": 448
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 4404025,
+        "quantidade": 58
+    },
+    {
+        "obra": "B-0731093",
+        "codDoMateiral": 7511022,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 210456,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 400057,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 530010,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 536779,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 536784,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2200002,
+        "quantidade": 0.81
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2203008,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2206000,
+        "quantidade": 4.18
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2221001,
+        "quantidade": 3.5
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2223464,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2230084,
+        "quantidade": 162.75
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2278000,
+        "quantidade": 0.333
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2300000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2314003,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2322005,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2401000,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2401001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2401006,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2402002,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2403000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2412001,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2414034,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2415000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3300152,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3310009,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3310029,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3410030,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3410080,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3417025,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3419072,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3419162,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3419168,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3420090,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3423030,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3428086,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3430120,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3430549,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3431560,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3461100,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3470008,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3480275,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3480285,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3480305,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3480310,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3480320,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3486040,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3490080,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3493315,
+        "quantidade": 47
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 3493325,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 4404026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0757058",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 210497,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 400057,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 530010,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 536778,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2200002,
+        "quantidade": 8.1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2202040,
+        "quantidade": 547.9404
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2203008,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2206000,
+        "quantidade": 11.5
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2221001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2223464,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2230050,
+        "quantidade": 84
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2278000,
+        "quantidade": 3.33
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2300000,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2314003,
+        "quantidade": 60
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2322005,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2401000,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2401001,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2401006,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2402002,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2403000,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2412001,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2412003,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2414034,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2415000,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3300012,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3300016,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3300076,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3300152,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3302082,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3310013,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3310021,
+        "quantidade": 39
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3310029,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3324021,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3410030,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3410080,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3416090,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3416100,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3417025,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3419072,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3420090,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3421010,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3423030,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3428086,
+        "quantidade": 60
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3430120,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3430350,
+        "quantidade": 72
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3430420,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3430547,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3431611,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3432010,
+        "quantidade": 272
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3433010,
+        "quantidade": 272
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3435010,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3436010,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3461100,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3470008,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480270,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480280,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480285,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480305,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480310,
+        "quantidade": 49
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480315,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480320,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480325,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480335,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3480340,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3486040,
+        "quantidade": 50
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3490080,
+        "quantidade": 56
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3493315,
+        "quantidade": 203
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 3493325,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 4401035,
+        "quantidade": 288
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 4404025,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0790106",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 210497,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 400057,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 530010,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 536778,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2200002,
+        "quantidade": 3.375
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2202040,
+        "quantidade": 113.417
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2203008,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2206000,
+        "quantidade": 4.18
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2221001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2223464,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2278000,
+        "quantidade": 1.388
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2300000,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2314003,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2322005,
+        "quantidade": 35
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2401000,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2401002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2401006,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2402000,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2402002,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2403000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2403001,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2412001,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2412003,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2414034,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2415000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3300016,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3300152,
+        "quantidade": 7
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3310021,
+        "quantidade": 29
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3310029,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3410080,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3417035,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3419072,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3420090,
+        "quantidade": 35
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3423030,
+        "quantidade": 35
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3428086,
+        "quantidade": 27
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3430120,
+        "quantidade": 35
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3430547,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3430548,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3432010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3433010,
+        "quantidade": 104
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3470008,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3480285,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3480305,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3480310,
+        "quantidade": 19
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3480315,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3480325,
+        "quantidade": 51
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3486040,
+        "quantidade": 37
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3490080,
+        "quantidade": 52
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3493315,
+        "quantidade": 148
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 3493325,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 4404025,
+        "quantidade": 39
+    },
+    {
+        "obra": "B-0824607",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 210456,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 400057,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 530010,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 536779,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 536784,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2200002,
+        "quantidade": 3.24
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2202040,
+        "quantidade": 85.424
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2203008,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2205000,
+        "quantidade": 4.68
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2206000,
+        "quantidade": 4.18
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2221001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2223464,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2230076,
+        "quantidade": 126
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2278000,
+        "quantidade": 1.332
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2300000,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2314003,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2322005,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2401000,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2401001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2401006,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2402002,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2403000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2412001,
+        "quantidade": 19
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2414034,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2415000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2660002,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2660003,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 2660026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3300012,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3300016,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3300082,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3300152,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3302082,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3310009,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3310013,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3310021,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3310029,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3410080,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3416090,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3416100,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3417025,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3419030,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3419072,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3419162,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3419168,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3420090,
+        "quantidade": 50
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3423030,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3428086,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3430120,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3430546,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3431760,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3432010,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3433010,
+        "quantidade": 40
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3461100,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3470008,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480270,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480275,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480280,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480285,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480305,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480310,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480320,
+        "quantidade": 31
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480335,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3480340,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3486040,
+        "quantidade": 54
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3490080,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3493315,
+        "quantidade": 89
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 3493325,
+        "quantidade": 16
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 4404025,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 4404026,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0883813",
+        "codDoMateiral": 7511022,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 211304,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 401010,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 531005,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 536778,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2200002,
+        "quantidade": 6.885
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2202040,
+        "quantidade": 404.905
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2203008,
+        "quantidade": 17
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2205000,
+        "quantidade": 14.04
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2206000,
+        "quantidade": 12.54
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2221001,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2223464,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2230050,
+        "quantidade": 882
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2278000,
+        "quantidade": 2.831
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2300000,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2314001,
+        "quantidade": 54
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2322006,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2401000,
+        "quantidade": 25
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2401006,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2402000,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2402002,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2403000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2403001,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2412001,
+        "quantidade": 31
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2414034,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2415000,
+        "quantidade": 9
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2660000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 2660001,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3300012,
+        "quantidade": 11
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3300016,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3300076,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3300082,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3300152,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3302082,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3310009,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3310029,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3324021,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3410080,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3416090,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3416100,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3417035,
+        "quantidade": 14
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3419030,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3419072,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3420090,
+        "quantidade": 62
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3421010,
+        "quantidade": 74
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3423030,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3428086,
+        "quantidade": 54
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3430120,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3430350,
+        "quantidade": 72
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3430547,
+        "quantidade": 20
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3431611,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3432010,
+        "quantidade": 128
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3433010,
+        "quantidade": 128
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3435010,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3436010,
+        "quantidade": 18
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3461100,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3470008,
+        "quantidade": 15
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480270,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480280,
+        "quantidade": 12
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480285,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480305,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480310,
+        "quantidade": 71
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480315,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480325,
+        "quantidade": 37
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480335,
+        "quantidade": 10
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3480340,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3486040,
+        "quantidade": 72
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3490080,
+        "quantidade": 64
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3493315,
+        "quantidade": 248
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 3493325,
+        "quantidade": 36
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 4401035,
+        "quantidade": 288
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 4404025,
+        "quantidade": 48
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 4404026,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0886752",
+        "codDoMateiral": 7511022,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 210456,
+        "quantidade": 23
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 210497,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 400057,
+        "quantidade": 84
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 400057,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 530010,
+        "quantidade": 103
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 530010,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536137,
+        "quantidade": 69
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536778,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536784,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536784,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536786,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 536787,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2200002,
+        "quantidade": 6.075
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2200002,
+        "quantidade": 96.5295
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2200002,
+        "quantidade": 0.3
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2202040,
+        "quantidade": 469.56
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2202040,
+        "quantidade": 8866.647
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2203008,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2203008,
+        "quantidade": 200
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2206000,
+        "quantidade": 8.5
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2206000,
+        "quantidade": 222.75
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2206000,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2206000,
+        "quantidade": 132
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2221001,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2221001,
+        "quantidade": 5
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2221001,
+        "quantidade": 30
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2223464,
+        "quantidade": 184
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2223464,
+        "quantidade": 6
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2230050,
+        "quantidade": 315
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2230050,
+        "quantidade": 119
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2230050,
+        "quantidade": 60
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2230076,
+        "quantidade": 43
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2230076,
+        "quantidade": 1946.7
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2278000,
+        "quantidade": 0.2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2278000,
+        "quantidade": 2.498
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2278000,
+        "quantidade": 62.6595
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2300000,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2300000,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2300000,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2300000,
+        "quantidade": 69
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2300000,
+        "quantidade": 8
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2314001,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2314003,
+        "quantidade": 1133
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2314003,
+        "quantidade": 51
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2322005,
+        "quantidade": 44
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2322005,
+        "quantidade": 1430
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401000,
+        "quantidade": 1
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401000,
+        "quantidade": 22
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401000,
+        "quantidade": 3
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401000,
+        "quantidade": 212
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401001,
+        "quantidade": 4
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401001,
+        "quantidade": 28
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401001,
+        "quantidade": 23
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401006,
+        "quantidade": 94
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2401006,
+        "quantidade": 2
+    },
+    {
+        "obra": "B-0892745",
+        "codDoMateiral": 2402002,
+        "quantidade": 107
+    }
+]

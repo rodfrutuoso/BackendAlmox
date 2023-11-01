@@ -42,7 +42,9 @@ class OrcamentosController {
         const { N_PROJETO } = request.params;
 
         const material = await knex("orcamentos")
+            .select(["orcamentos.id","orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO","orcamentos.ORCADO",knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
             .where({ N_PROJETO })
+            .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
 
         if (material.length < 1) {
             throw new AppError(`A obra não foi encontrada`)
@@ -63,7 +65,7 @@ class OrcamentosController {
 
             orcamento = await knex("orcamentos")
                 .select(["N_PROJETO", "MATERIAL"])
-                .sum("ORCADO")
+                .sum("ORCADO as ORÇADO")
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
                 .whereIn("MATERIAL", filterCodigos)
                 .groupBy(["N_PROJETO", "MATERIAL"])

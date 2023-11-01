@@ -42,7 +42,11 @@ class OrcamentosController {
         const { N_PROJETO } = request.params;
 
         const material = await knex("orcamentos")
-            .select(["orcamentos.id","orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO","orcamentos.ORCADO",knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
+            .select(["orcamentos.id", "orcamentos.N_PROJETO",
+                "orcamentos.MATERIAL",
+                "listaMateriais.DESCRICAO",
+                "orcamentos.ORCADO",
+                knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
             .where({ N_PROJETO })
             .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
 
@@ -64,27 +68,36 @@ class OrcamentosController {
             const filterCodigos = MATERIAL.split(",").map(material => material.trim())
 
             orcamento = await knex("orcamentos")
-                .select(["N_PROJETO", "MATERIAL"])
-                .sum("ORCADO as ORÇADO")
+                .select(["orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO"])
+                .sum("orcamentos.ORCADO as ORÇADO")
+                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL"))
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
-                .whereIn("MATERIAL", filterCodigos)
-                .groupBy(["N_PROJETO", "MATERIAL"])
+                .whereIn("orcamentos.MATERIAL", filterCodigos)
+                .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
+                .groupBy(["orcamentos.N_PROJETO", "orcamentos.MATERIAL"])
 
         } else if (N_PROJETO && !MATERIAL) {
 
             orcamento = await knex("orcamentos")
-                .select(["N_PROJETO", "MATERIAL"])
-                .sum("ORCADO")
+                .select(["orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO"])
+                .sum("orcamentos.ORCADO as ORÇADO")
+                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL"))
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
-                .groupBy(["N_PROJETO", "MATERIAL"])
+                .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
+                .groupBy(["orcamentos.N_PROJETO", "orcamentos.MATERIAL"])
 
         } else if (!N_PROJETO && MATERIAL) {
 
             const filterCodigos = MATERIAL.split(",").map(material => material.trim())
 
             orcamento = await knex("orcamentos")
-                .select(["N_PROJETO", "MATERIAL","ORCADO"])
-                .whereIn("MATERIAL", filterCodigos)
+                .select(["orcamentos.N_PROJETO",
+                    "orcamentos.MATERIAL",
+                    "listaMateriais.DESCRICAO",
+                    "orcamentos.ORCADO",
+                    knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
+                .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
+                .whereIn("orcamentos.MATERIAL", filterCodigos)
 
         } else {
             throw new AppError(`Não foram inseridas dados de pesquisa`)

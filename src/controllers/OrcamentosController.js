@@ -46,7 +46,7 @@ class OrcamentosController {
                 "orcamentos.MATERIAL",
                 "listaMateriais.DESCRICAO",
                 "orcamentos.ORCADO",
-                knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
+                knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALOR_TOTAL")])
             .where({ N_PROJETO })
             .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
 
@@ -70,7 +70,7 @@ class OrcamentosController {
             orcamento = await knex("orcamentos")
                 .select(["orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO"])
                 .sum("orcamentos.ORCADO as ORÇADO")
-                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL"))
+                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALOR_TOTAL"))
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
                 .whereIn("orcamentos.MATERIAL", filterCodigos)
                 .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
@@ -81,7 +81,7 @@ class OrcamentosController {
             orcamento = await knex("orcamentos")
                 .select(["orcamentos.N_PROJETO", "orcamentos.MATERIAL", "listaMateriais.DESCRICAO"])
                 .sum("orcamentos.ORCADO as ORÇADO")
-                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL"))
+                .select(knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALOR_TOTAL"))
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
                 .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
                 .groupBy(["orcamentos.N_PROJETO", "orcamentos.MATERIAL"])
@@ -95,7 +95,7 @@ class OrcamentosController {
                     "orcamentos.MATERIAL",
                     "listaMateriais.DESCRICAO",
                     "orcamentos.ORCADO",
-                    knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALORTOTAL")])
+                    knex.raw("listaMateriais.VALOR_UND * orcamentos.ORCADO as VALOR_TOTAL")])
                 .innerJoin("listaMateriais", "listaMateriais.CODIGO", "orcamentos.MATERIAL")
                 .whereIn("orcamentos.MATERIAL", filterCodigos)
 

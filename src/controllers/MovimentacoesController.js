@@ -27,7 +27,11 @@ class MovimentacoesController {
         const { PROJETO } = request.params;
 
         const material = await knex("movimentacoes")
+            .select(["movimentacoes.PROJETO","movimentacoes.CODIGO", "listaMateriais.DESCRICAO"])
+            .sum("movimentacoes.QTD as MOVIMENTADO")
+            .select(knex.raw("listaMateriais.VALOR_UND * movimentacoes.QTD as VALOR_TOTAL"))
             .where({ PROJETO })
+            .innerJoin("listaMateriais", "listaMateriais.CODIGO", "movimentacoes.CODIGO")
 
         if (material.length < 1) {
             throw new AppError(`A obra não foi encontrada`)

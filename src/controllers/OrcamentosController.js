@@ -62,19 +62,26 @@ class OrcamentosController {
             const filterCodigos = MATERIAL.split(",").map(material => material.trim())
 
             orcamento = await knex("orcamentos")
+                .select(["N_PROJETO", "MATERIAL"])
+                .sum("ORCADO")
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
                 .whereIn("MATERIAL", filterCodigos)
+                .groupBy(["N_PROJETO", "MATERIAL"])
 
         } else if (N_PROJETO && !MATERIAL) {
 
             orcamento = await knex("orcamentos")
+                .select(["N_PROJETO", "MATERIAL"])
+                .sum("ORCADO")
                 .whereLike("N_PROJETO", `%${N_PROJETO}%`)
+                .groupBy(["N_PROJETO", "MATERIAL"])
 
         } else if (!N_PROJETO && MATERIAL) {
 
             const filterCodigos = MATERIAL.split(",").map(material => material.trim())
 
             orcamento = await knex("orcamentos")
+                .select(["N_PROJETO", "MATERIAL","ORCADO"])
                 .whereIn("MATERIAL", filterCodigos)
 
         } else {

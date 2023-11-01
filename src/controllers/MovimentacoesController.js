@@ -24,8 +24,16 @@ class MovimentacoesController {
     }
 
     async show(request, response) {
+        const { PROJETO } = request.params;
 
-        return response.status(200).json()
+        const material = await knex("movimentacoes")
+            .where({ PROJETO })
+
+        if (material.length < 1) {
+            throw new AppError(`A obra não foi encontrada`)
+        }
+
+        return response.status(200).json(material)
     }
 
 

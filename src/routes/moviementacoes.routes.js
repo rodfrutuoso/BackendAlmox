@@ -12,7 +12,7 @@ const movimentacoesRoutes = Router()
 
 //método post
 movimentacoesRoutes.post("/", movimentacoesController.create)
-movimentacoesRoutes.get("/", movimentacoesController.show)
+movimentacoesRoutes.get("/:PROJETO", movimentacoesController.show)
 movimentacoesRoutes.get("/", movimentacoesController.index)
 
 module.exports = movimentacoesRoutes;

@@ -12,7 +12,6 @@ class MovimentacoesController {
         }
 
 
-
         materiais.map(async (material) => {
             const { PROJETO, CODIGO, QTD, OBS } = material
 

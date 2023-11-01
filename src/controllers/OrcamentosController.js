@@ -21,7 +21,7 @@ class OrcamentosController {
 
 
         if (repetidos.length > 0) {
-            repetidos = repetidos.map(repetido => repetido.N_PROJETO+" - "+ repetido.MATERIAL+" - "+ repetido.ORCADO)
+            repetidos = repetidos.map(repetido => repetido.N_PROJETO + " - " + repetido.MATERIAL + " - " + repetido.ORCADO)
             throw new AppError(`Já existem esses orçamentos: ${repetidos}`)
         }
 
@@ -39,20 +39,57 @@ class OrcamentosController {
 
     async show(request, response) {
 
-        return response.status(200).json(repetidos)
+        const { N_PROJETO } = request.params;
+
+        const material = await knex("orcamentos")
+            .where({ N_PROJETO })
+
+        if (material.length < 1) {
+            throw new AppError(`A obra não foi encontrada`)
+        }
+
+        return response.status(200).json(material)
+
     }
 
 
     async index(request, response) {
+        const { N_PROJETO, MATERIAL } = request.query
 
+        var orcamento
+        if (N_PROJETO && MATERIAL) {
 
-        response.status(200).json()
+            const filterCodigos = MATERIAL.split(",").map(material => material.trim())
+
+            orcamento = await knex("orcamentos")
+                .whereLike("N_PROJETO", `%${N_PROJETO}%`)
+                .whereIn("MATERIAL", filterCodigos)
+
+        } else if (N_PROJETO && !MATERIAL) {
+
+            orcamento = await knex("orcamentos")
+                .whereLike("N_PROJETO", `%${N_PROJETO}%`)
+
+        } else if (!N_PROJETO && MATERIAL) {
+
+            const filterCodigos = MATERIAL.split(",").map(material => material.trim())
+
+            orcamento = await knex("orcamentos")
+                .whereIn("MATERIAL", filterCodigos)
+
+        } else {
+            throw new AppError(`Não foram inseridas dados de pesquisa`)
+        }
+
+        response.status(200).json(orcamento)
     }
 
     async delete(request, response) {
+        const { N_PROJETO } = request.params
 
+        await knex("orcamentos").where({ N_PROJETO }).delete()
 
-        return response.status(201).json()
+        return response.status(201).json(`O projeto ${N_PROJETO} foi deletado`)
 
     }
 }

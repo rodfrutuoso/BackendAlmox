@@ -12,8 +12,8 @@ const orcamentosRoutes = Router()
 
 //método post
 orcamentosRoutes.post("/", orcamentosController.create)
-orcamentosRoutes.get("/", orcamentosController.show)
-orcamentosRoutes.delete("/", orcamentosController.delete)
+orcamentosRoutes.get("/:N_PROJETO", orcamentosController.show)
+orcamentosRoutes.delete("/:N_PROJETO", orcamentosController.delete)
 orcamentosRoutes.get("/", orcamentosController.index)
 
 module.exports = orcamentosRoutes;
